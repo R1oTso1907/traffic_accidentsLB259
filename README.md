@@ -26,7 +26,6 @@ Es wurden Maßnahmen getroffen, um den Datenschutz zu gewährleisten:
 
 ## 📌 Quelle
 Dieser Datensatz stammt aus einer **offenen Datenquelle** (kaggle) und wurde unter einer Open-Data-Lizenz veröffentlicht.  
-(💡 Falls du die genaue Quelle hast, kannst du den Link hier einfügen!)
 
 
 
